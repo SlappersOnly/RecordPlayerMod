@@ -1,0 +1,65 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "furniture",
+    "record player",
+    "wood",
+    "brown"	
+  ],
+  "code": "MarkGrant.RecordPlayerMod.RecordPlayer.Red",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 3,
+      "z": 2
+    }
+  },
+  "pricing": {
+    "buyable": false,
+    "sellPrice": 300,
+    "value": 500
+  },
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "frameAnimatedTile": {
+    "frameTime": 0.1,
+    "sounds": "MarkGrant.RecordPlayerMod.sounds.DerekClegg"
+  },
+  "prefetchTileState": true,
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "useCustomRendering": true,
+  "variants": [
+    "mods/RecordPlayerMod/animated/Red/RecordPlayer01Handle01.qb",
+	"mods/RecordPlayerMod/animated/Red/RecordPlayer01Handle02.qb",
+	"mods/RecordPlayerMod/animated/Red/RecordPlayer01Handle03.qb",
+	"mods/RecordPlayerMod/animated/Red/RecordPlayer01Handle04.qb",
+    "mods/RecordPlayerMod/animated/Red/RecordPlayer01Handle01.qb",
+	"mods/RecordPlayerMod/animated/Red/RecordPlayer01Handle02.qb",
+	"mods/RecordPlayerMod/animated/Red/RecordPlayer01Handle03.qb",
+	"mods/RecordPlayerMod/animated/Red/RecordPlayer01Handle04.qb",
+    "mods/RecordPlayerMod/animated/Red/RecordPlayer02Handle01.qb",
+	"mods/RecordPlayerMod/animated/Red/RecordPlayer02Handle02.qb",
+	"mods/RecordPlayerMod/animated/Red/RecordPlayer02Handle03.qb",
+	"mods/RecordPlayerMod/animated/Red/RecordPlayer02Handle04.qb",
+    "mods/RecordPlayerMod/animated/Red/RecordPlayer02Handle01.qb",
+	"mods/RecordPlayerMod/animated/Red/RecordPlayer02Handle02.qb",
+	"mods/RecordPlayerMod/animated/Red/RecordPlayer02Handle03.qb",
+	"mods/RecordPlayerMod/animated/Red/RecordPlayer02Handle04.qb",
+    "mods/RecordPlayerMod/animated/Red/RecordPlayer03Handle01.qb",
+	"mods/RecordPlayerMod/animated/Red/RecordPlayer03Handle02.qb",
+	"mods/RecordPlayerMod/animated/Red/RecordPlayer03Handle03.qb",
+	"mods/RecordPlayerMod/animated/Red/RecordPlayer03Handle04.qb",
+    "mods/RecordPlayerMod/animated/Red/RecordPlayer03Handle01.qb",
+	"mods/RecordPlayerMod/animated/Red/RecordPlayer03Handle02.qb",
+	"mods/RecordPlayerMod/animated/Red/RecordPlayer03Handle03.qb",
+	"mods/RecordPlayerMod/animated/Red/RecordPlayer03Handle04.qb",
+    "mods/RecordPlayerMod/animated/Red/RecordPlayer04Handle01.qb",
+	"mods/RecordPlayerMod/animated/Red/RecordPlayer04Handle02.qb",
+	"mods/RecordPlayerMod/animated/Red/RecordPlayer04Handle03.qb",
+	"mods/RecordPlayerMod/animated/Red/RecordPlayer04Handle04.qb",
+    "mods/RecordPlayerMod/animated/Red/RecordPlayer04Handle01.qb",
+	"mods/RecordPlayerMod/animated/Red/RecordPlayer04Handle02.qb",
+	"mods/RecordPlayerMod/animated/Red/RecordPlayer04Handle03.qb",
+	"mods/RecordPlayerMod/animated/Red/RecordPlayer04Handle04.qb",
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "furniture",
+    "record player",
+    "wood",
+    "brown"	
+  ],
+  "code": "MarkGrant.RecordPlayerMod.RecordPlayer.Blue",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 3,
+      "z": 2
+    }
+  },
+  "pricing": {
+    "buyable": false,
+    "sellPrice": 300,
+    "value": 500
+  },
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "frameAnimatedTile": {
+    "frameTime": 0.1,
+    "sounds": "MarkGrant.RecordPlayerMod.sounds.JoshWoodward"
+  },
+  "prefetchTileState": true,
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "useCustomRendering": true,
+  "variants": [
+    "mods/RecordPlayerMod/animated/Blue/RecordPlayer01Handle01.qb",
+	"mods/RecordPlayerMod/animated/Blue/RecordPlayer01Handle02.qb",
+	"mods/RecordPlayerMod/animated/Blue/RecordPlayer01Handle03.qb",
+	"mods/RecordPlayerMod/animated/Blue/RecordPlayer01Handle04.qb",
+    "mods/RecordPlayerMod/animated/Blue/RecordPlayer01Handle01.qb",
+	"mods/RecordPlayerMod/animated/Blue/RecordPlayer01Handle02.qb",
+	"mods/RecordPlayerMod/animated/Blue/RecordPlayer01Handle03.qb",
+	"mods/RecordPlayerMod/animated/Blue/RecordPlayer01Handle04.qb",
+    "mods/RecordPlayerMod/animated/Blue/RecordPlayer02Handle01.qb",
+	"mods/RecordPlayerMod/animated/Blue/RecordPlayer02Handle02.qb",
+	"mods/RecordPlayerMod/animated/Blue/RecordPlayer02Handle03.qb",
+	"mods/RecordPlayerMod/animated/Blue/RecordPlayer02Handle04.qb",
+    "mods/RecordPlayerMod/animated/Blue/RecordPlayer02Handle01.qb",
+	"mods/RecordPlayerMod/animated/Blue/RecordPlayer02Handle02.qb",
+	"mods/RecordPlayerMod/animated/Blue/RecordPlayer02Handle03.qb",
+	"mods/RecordPlayerMod/animated/Blue/RecordPlayer02Handle04.qb",
+    "mods/RecordPlayerMod/animated/Blue/RecordPlayer03Handle01.qb",
+	"mods/RecordPlayerMod/animated/Blue/RecordPlayer03Handle02.qb",
+	"mods/RecordPlayerMod/animated/Blue/RecordPlayer03Handle03.qb",
+	"mods/RecordPlayerMod/animated/Blue/RecordPlayer03Handle04.qb",
+    "mods/RecordPlayerMod/animated/Blue/RecordPlayer03Handle01.qb",
+	"mods/RecordPlayerMod/animated/Blue/RecordPlayer03Handle02.qb",
+	"mods/RecordPlayerMod/animated/Blue/RecordPlayer03Handle03.qb",
+	"mods/RecordPlayerMod/animated/Blue/RecordPlayer03Handle04.qb",
+    "mods/RecordPlayerMod/animated/Blue/RecordPlayer04Handle01.qb",
+	"mods/RecordPlayerMod/animated/Blue/RecordPlayer04Handle02.qb",
+	"mods/RecordPlayerMod/animated/Blue/RecordPlayer04Handle03.qb",
+	"mods/RecordPlayerMod/animated/Blue/RecordPlayer04Handle04.qb",
+    "mods/RecordPlayerMod/animated/Blue/RecordPlayer04Handle01.qb",
+	"mods/RecordPlayerMod/animated/Blue/RecordPlayer04Handle02.qb",
+	"mods/RecordPlayerMod/animated/Blue/RecordPlayer04Handle03.qb",
+	"mods/RecordPlayerMod/animated/Blue/RecordPlayer04Handle04.qb",
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "MarkGrant.RecordPlayerMod.sounds.CrackleLoop",
+  "sounds": [
+    {
+      "file": "mods/RecordPlayerMod/sounds/CrackleLoop",
+      "volume": 1,
+      "fileType": "Ogg"
+    }
+  ]
+}

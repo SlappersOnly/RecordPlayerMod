@@ -1,0 +1,13 @@
+{
+  "__inherits": "staxel/effect/piano.config",
+  "code": "MarkGrant.RecordPlayerMod.Music",
+  "emote": "staxel.emote.Wave",
+  "sounds": [
+    "MarkGrant.RecordPlayerMod.Music.0",
+	"MarkGrant.RecordPlayerMod.Music.1",
+	"MarkGrant.RecordPlayerMod.Music.2",
+	"MarkGrant.RecordPlayerMod.Music.3",
+	"MarkGrant.RecordPlayerMod.Music.4",
+	"MarkGrant.RecordPlayerMod.Music.5",
+  ]
+}

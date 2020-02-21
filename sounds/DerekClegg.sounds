@@ -1,0 +1,11 @@
+{
+  "code": "MarkGrant.RecordPlayerMod.sounds.DerekClegg",
+  "sounds": [
+    {
+      "file": "mods/RecordPlayerMod/sounds/Derek Clegg - Life and Times",
+      "volume": 1,
+      "fileType": "Ogg"
+    }
+  ]
+}
+

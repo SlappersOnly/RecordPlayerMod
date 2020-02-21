@@ -1,0 +1,10 @@
+{
+  "code": "MarkGrant.RecordPlayerMod.Music.0",
+  "sounds": [
+    {
+      "file": "mods/RecordPlayerMod/sounds/New folder/0",
+      "volume": 1,
+      "fileType": "Ogg"
+    }
+  ]
+}

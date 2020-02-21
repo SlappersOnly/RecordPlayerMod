@@ -1,0 +1,10 @@
+{
+  "code": "MarkGrant.RecordPlayerMod.sounds.JoshWoodward",
+  "sounds": [
+    {
+      "file": "mods/RecordPlayerMod/sounds/Josh Woodward - Little Tomcat",
+      "volume": 1,
+      "fileType": "Ogg"
+    }
+  ]
+}

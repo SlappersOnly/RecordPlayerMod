@@ -1,0 +1,55 @@
+{
+  "__inherits": "mods/SuperSecretMod/configs/PhasingBlocks.config",
+  "categories": [
+    "magic",
+    "secret",
+    "wand",
+  ],
+  "code": "MarkGrant.RecordPlayerMod.Disc.Blue",
+  "icon": "mods/RecordPlayerMod/Disc/RecordDiscBlue.qb",
+  "inHand": "mods/RecordPlayerMod/Disc/RecordDiscBlueSmall.qb",
+  "iconScale": 0.4,
+  "inHandOffset": {
+    "x": -0.1,
+    "y": -0.3,
+    "z": -0.2
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": -0.6,
+    "z": -1.8
+  },
+  "usageOffset": {
+    "x": 0.1,
+    "y": -0.1,
+    "z": 0.0
+  },
+  "interactVerb": "controlHint.verb.Play",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 10,
+    "value": 15
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "useBoxCollider": true,
+  "kind": "staxel.item.TileReplacer",
+  "replacerItem": {
+	"notificationTile": "MarkGrant.SuperSecretMod.aDifferentBlock",
+	"tiles": [      
+	  {
+        "replaceWithTile": "MarkGrant.RecordPlayerMod.RecordPlayer.Blue",
+        "toReplaceTile": "MarkGrant.RecordPlayerMod.RecordPlayer.Red"
+      },           
+	  {
+        "replaceWithTile": "MarkGrant.RecordPlayerMod.RecordPlayer.Blue",
+        "toReplaceTile": "MarkGrant.RecordPlayerMod.RecordPlayer.Default"
+      }, 
+	  ]
+}
+}

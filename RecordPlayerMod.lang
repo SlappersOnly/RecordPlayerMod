@@ -1,0 +1,15 @@
+language.code=en-GB
+language=English
+
+
+MarkGrant.RecordPlayerMod.Disc.Default.name=Blank Record
+MarkGrant.RecordPlayerMod.Disc.Default.description=This is a blank record and will play a quiet scrafting sound.
+
+MarkGrant.RecordPlayerMod.Disc.Red.name=Red Record
+MarkGrant.RecordPlayerMod.Disc.Red.description=Life and Times - sung by Derek Clegg
+
+MarkGrant.RecordPlayerMod.Disc.Blue.name=Blue Record
+MarkGrant.RecordPlayerMod.Disc.Blue.description=Little Tomcat - sung by Josh Woodward.
+
+MarkGrant.RecordPlayerMod.RecordPlayer.Default.name=Record Player
+MarkGrant.RecordPlayerMod.RecordPlayer.Default.description= Grab your record and click the bottom right of the record player to start listening to music.
